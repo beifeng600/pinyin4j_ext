@@ -9,3 +9,7 @@ pinyin4j_ext
 	3、修改的音。
 	
 感谢pinyin4j的作者Li Min、华宇拼音输入法论坛的wangyanhan。
+
+原始的pinyin4j地址为：
+http://pinyin4j.sourceforge.net/
+http://sourceforge.net/projects/pinyin4j/
